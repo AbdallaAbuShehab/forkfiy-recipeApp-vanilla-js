@@ -1,2 +1,2 @@
 # forkfiy-recipeApp
-Recipe application: its app for search any recipe with create or add recipe.
+Recipe application: its app for search any recipe with create or add your recipe.
